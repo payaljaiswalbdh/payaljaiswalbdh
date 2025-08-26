@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @payaljaiswalbdh
-- 👀 I’m interested in computer science
 -  I’m currently pursuing btech in CS 
   
 
