@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Payal Jaiswal</h1>
+<h1 align="center">Hey 👋, I'm Payal Jaiswal</h1>
 <h3 align="center">A passionate Web Developer from India 💻</h3>
 
 <p align="center">
@@ -10,12 +10,13 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I'm currently working on **full-stack web development projects**
-- 🌱 I'm learning **React.js, Node.js, and MongoDB**
-- 👯 I'm looking to collaborate on **open-source web projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, and Java**
-- 📫 Reach me at: **payaljaiswalbdh@gmail.com**
-- ⚡ Fun fact: **I love solving coding challenges and exploring new technologies**
+I'm a **Computer Science undergraduate** passionate about full-stack development and machine learning. Currently in my 3rd year of B.Tech, I love building web applications and solving real-world problems through code.
+
+- 🎓 **Education:** B.Tech in CSE @ Pranveer Singh Institute of Technology, Kanpur 
+- 🔭 **Currently working on:** AI-Based EV Charging Port Availability Predictor (Logistic Regression + Pandas)
+- 🌱 **Learning & Exploring:** React.js, Node.js, MongoDB, Postman, Express.js and Machine Learning
+- 💼 **Looking for:** Entry-level Software Engineering roles where I can build scalable solutions
+- 📫 **Reach me:** payaljaiswalbdh@gmail.com 
 
 ---
 
@@ -82,7 +83,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**ML Expertise:** `Supervised Learning` `Logistic Regression` `Data Preprocessing` `Feature Engineering`
+### ML Expertise:** `Supervised Learning` `Logistic Regression` `Data Preprocessing` `Feature Engineering`
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -92,8 +93,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🎓 Core Computer Science
-`Data Structures & Algorithms` `Object-Oriented Programming` `Operating Systems` `DBMS` `Computer Networks`
+### 🎓 Core Computer Science:**`Data Structures & Algorithms` `Object-Oriented Programming` `Operating Systems` `DBMS` `Computer Networks`
+
 ---
 
 ### 📊 GitHub Stats
@@ -117,14 +118,4 @@
 
 ---
 
-### ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-<p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
