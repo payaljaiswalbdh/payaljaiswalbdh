@@ -21,7 +21,10 @@
 
 ### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=payaljaiswalbdh&theme=darkhub&no-frame=true&row=1&column=6" alt="payaljaiswalbdh" />
+  <img src="https://github-profile-trophy.vercel.app/?username=payaljaiswalbdh&theme=onedark&no-frame=true&row=1&column=5" alt="payaljaiswalbdh" onerror="this.style.display='none'"/>
+</p>
+<p align="left">
+  <i>※ Trophy service temporarily unavailable - check back later!</i>
 </p>
 
 ---
