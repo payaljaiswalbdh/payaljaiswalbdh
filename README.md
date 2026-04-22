@@ -90,15 +90,21 @@ I'm a **Computer Science undergraduate** passionate about full-stack development
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payaljaiswalbdh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payaljaiswalbdh&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=payaljaiswalbdh&theme=radical" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payaljaiswalbdh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=payaljaiswalbdh&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=payaljaiswalbdh&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=payaljaiswalbdh&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=payaljaiswalbdh&theme=radical&utcOffset=5.5" width="45%" />
 </p>
 
 ---
