@@ -13,21 +13,11 @@
 I'm a **Computer Science undergraduate** passionate about full-stack development and machine learning. Currently in my 3rd year of B.Tech, I love building web applications and solving real-world problems through code.
 
 - 🎓 **Education:** B.Tech in CSE @ Pranveer Singh Institute of Technology, Kanpur 
-- 🔭 **Currently working on:** AI-Based EV Charging Port Availability Predictor (Logistic Regression + Pandas)
 - 🌱 **Learning & Exploring:** React.js, Node.js, MongoDB, Postman, Express.js and Machine Learning
 - 💼 **Looking for:** Entry-level Software Engineering roles where I can build scalable solutions
 - 📫 **Reach me:** payaljaiswalbdh@gmail.com 
 
 ---
-
-### 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=payaljaiswalbdh&theme=onedark&no-frame=true&row=1&column=5" alt="payaljaiswalbdh" onerror="this.style.display='none'"/>
-</p>
-
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
@@ -60,7 +50,6 @@ I'm a **Computer Science undergraduate** passionate about full-stack development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -83,15 +72,19 @@ I'm a **Computer Science undergraduate** passionate about full-stack development
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### ML Expertise:** `Supervised Learning` `Logistic Regression` `Data Preprocessing` `Feature Engineering`
+### 🤖 Machine Learning
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-FF6B6B?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-4ECDC4?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-45B7D1?style=for-the-badge&logo=pandas&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-96CEB4?style=for-the-badge&logo=python&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-FFEAA7?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Confusion Matrix](https://img.shields.io/badge/Confusion_Matrix-D4A5A5?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🎓 Core Computer Science:**`Data Structures & Algorithms` `Object-Oriented Programming` `Operating Systems` `DBMS` `Computer Networks`
 
