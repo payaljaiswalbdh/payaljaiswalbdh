@@ -1,8 +1,9 @@
 <!--═══════════════════════════════════════════════════════════════════════
    ✨ ULTRA EDITION — PAYAL JAISWAL (FINAL CLEAN VERSION)
 ═══════════════════════════════════════════════════════════════════════-->
+
 <!-- ============================ HEADER ============================ -->
-<div align="left">
+<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24,12,20,30,2&height=200&section=header&text=Payal%20Jaiswal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20⚡%20ML%20Enthusiast&descSize=18&descAlignY=72)
 
@@ -11,7 +12,7 @@
 </a>
 
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=payaljaiswalbdh&label=Profile%20Views&color=ff69b4&style=flat" alt="payaljaiswalbdh" />
   <img src="https://img.shields.io/github/followers/payaljaiswalbdh?label=Followers&style=social" alt="followers" />
 </p>
@@ -38,7 +39,6 @@ keep learning, and contribute to building efficient and scalable solutions in a 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -136,7 +136,5 @@ keep learning, and contribute to building efficient and scalable solutions in a 
   <a href="https://instagram.com/payal_jais18" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://kaggle.com/payaljaiswalup92" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
-
----
 
 ---
