@@ -2,7 +2,7 @@
    ✨ ULTRA EDITION — PAYAL JAISWAL (FINAL CLEAN VERSION)
 ═══════════════════════════════════════════════════════════════════════-->
 <!-- ============================ HEADER ============================ -->
-<div align="center">
+<div align="left">
 
 ![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24,12,20,30,2&height=200&section=header&text=Payal%20Jaiswal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20⚡%20ML%20Enthusiast&descSize=18&descAlignY=72)
 
@@ -11,7 +11,7 @@
 </a>
 
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=payaljaiswalbdh&label=Profile%20Views&color=ff69b4&style=flat" alt="payaljaiswalbdh" />
   <img src="https://img.shields.io/github/followers/payaljaiswalbdh?label=Followers&style=social" alt="followers" />
 </p>
@@ -28,19 +28,6 @@ keep learning, and contribute to building efficient and scalable solutions in a 
  🌱 **Learning & Exploring:** React.js, Node.js, MongoDB, and Machine Learning
  💼 **Looking for:** Entry-level Software Engineering roles
 
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/payal-jaiswal-451703282" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/payaljaiswalbdh" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/payal_jaiswal18/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/payaljaiswalbdh" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://instagram.com/payal_jais18" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://kaggle.com/payaljaiswalup92" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-</p>
 
 ---
 
@@ -100,21 +87,21 @@ keep learning, and contribute to building efficient and scalable solutions in a 
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=payaljaiswalbdh&theme=radical" width="90%" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=payaljaiswalbdh&theme=radical" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=payaljaiswalbdh&theme=radical" width="45%" />
 </p>
 
 ### 🏆 Certifications
 
-- 🎓 **Machine Learning Specialization** – DeepLearning.AI & Stanford University (Coursera) | 2026
-- 🎓 **HTML5, CSS3, JavaScript & Python Fundamentals** – Infosys Springboard | 2025
-- 🎓 **Complete C Programming Course** – Udemy | 2024
-- 🎓 **Java Certification** – SoloLearn | 2024
+  🎓 **Machine Learning Specialization** – DeepLearning.AI & Stanford University (Coursera) | 2026
+  🎓 **HTML5, CSS3, JavaScript & Python Fundamentals** – Infosys Springboard | 2025
+  🎓 **Complete C Programming Course** – Udemy | 2024
+  🎓 **Java Certification** – SoloLearn | 2024
 
 ---
 
@@ -129,24 +116,27 @@ keep learning, and contribute to building efficient and scalable solutions in a 
 
 ### 🏆 Achievements
 
-- ✅ Solved **200+ problems** on LeetCode
-- ⭐ **5-star** in Problem Solving, Java on HackerRank
-- 🎯 Participated in **GenAI Exchange Hackathon** – Google Cloud (H2S Program) | 2026
+ ✅ Solved **200+ problems** on LeetCode
+ ⭐ **5-star** in Problem Solving, Java on HackerRank
+ 🎯 Participated in **GenAI Exchange Hackathon** – Google Cloud (H2S Program) | 2026
 
 ---
 
 ### 📫 Let's Connect!
 
-<p align="center">
+<p align="left">
   <i>💼 Open to entry-level Software Engineering roles</i><br/>
   <i>📧**Reach me:** payaljaiswalbdh@gmail.com </i>
 </p>
-
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/payal-jaiswal-451703282" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/payaljaiswalbdh" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/payal_jaiswal18/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.hackerrank.com/payaljaiswalbdh" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://instagram.com/payal_jais18" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://kaggle.com/payaljaiswalup92" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
+
+---
 
 ---
