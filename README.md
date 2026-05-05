@@ -1,4 +1,6 @@
-<!--- 🌟 PREMIUM ANIME-THEMED PROFILE 🌟 --->
+<!--═══════════════════════════════════════════════════════════════════════
+   ✨ ULTRA EDITION — PAYAL JAISWAL 
+═══════════════════════════════════════════════════════════════════════-->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Anime+Academy&size=30&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=800&lines=✦+Welcome+to+Payal's+Profile+✦;Full-Stack+Developer+%7C+ML+Enthusiast;200%2B+DSA+Problems+Solved;✦+Anime+Lover+✦" alt="Typing SVG" />
@@ -11,13 +13,6 @@
 
 ---
 
-<!-- ✨ ANIME BANNER ✨ -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" height="200" style="border-radius: 15px;" />
-</p>
-
----
-
 <!-- 🎀 ABOUT ME SECTION WITH ANIME VIBES 🎀 -->
 <table align="center">
   <tr>
@@ -26,15 +21,12 @@
       <p>
         <b>✨ Payal Jaiswal ✨</b><br/><br/>
         🎓 <b>B.Tech CSE</b> (2023–2027) @ PSIT, Kanpur<br/>
-        📚 <b>CGPA:</b> 8.32<br/><br/>
-        
+        📚 <b>CGPA:</b> 8.32<br/><br/> 
         💻 <b>Full-Stack Developer</b> & <b>ML Enthusiast</b><br/>
         🚀 <b>200+ DSA problems</b> solved on LeetCode<br/>
         ⭐ <b>5-star</b> HackerRank (Java, C, Problem Solving)<br/><br/>
-        
         🤖 Currently building: <b>AI-based EV Charging Predictor</b><br/>
         🌱 Learning: <b>React.js, Node.js, MongoDB, ML</b><br/><br/>
-        
         💼 <b>Looking for:</b> Entry-level Software Engineering roles<br/>
         📫 <b>Contact:</b> payaljaiswalbdh@gmail.com | +91-90441-71224
       </p>
@@ -46,22 +38,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<!-- 🏆 ANIME ACHIEVEMENTS SECTION 🏆 -->
-<h2 align="center">⚡ My Power Levels ⚡</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=payaljaiswalbdh&theme=onedark&no-frame=true&row=2&column=4" width="90%" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/payal_jaiswal18?theme=dark&font=Annie%20Use%20Your%20Telescope&ext=heatmap" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=payaljaiswalbdh&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&border_radius=10" width="48%" />
-</p>
 
 ---
 
