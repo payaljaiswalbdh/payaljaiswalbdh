@@ -12,7 +12,7 @@
 </a>
 
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=payaljaiswalbdh&label=Profile%20Views&color=ff69b4&style=flat" alt="payaljaiswalbdh" />
   <img src="https://img.shields.io/github/followers/payaljaiswalbdh?label=Followers&style=social" alt="followers" />
 </p>
