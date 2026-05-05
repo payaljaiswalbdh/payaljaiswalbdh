@@ -24,11 +24,10 @@ Computer Science undergraduate skilled in full stack, along with exposure to mac
 MongoDB, and have built projects involving web applications and REST APIs. Looking for an entry-level software engineering role where I can apply my skills,
 keep learning, and contribute to building efficient and scalable solutions in a fast-paced environment. 
 
-- 🎓 **Education:** B.Tech in CSE @ Pranveer Singh Institute of Technology, Kanpur (CGPA: 8.32)
-- 🌱 **Learning & Exploring:** React.js, Node.js, MongoDB, and Machine Learning
-- 💼 **Looking for:** Entry-level Software Engineering roles
-- 🏆 **Achievements:** Solved 200+ LeetCode problems | Google Cloud Hackathon '26
-- 📫 **Reach me:** payaljaiswalbdh@gmail.com 
+ 🎓 **Education:** B.Tech in CSE @ Pranveer Singh Institute of Technology, Kanpur (CGPA: 8.32)
+ 🌱 **Learning & Exploring:** React.js, Node.js, MongoDB, and Machine Learning
+ 💼 **Looking for:** Entry-level Software Engineering roles
+
 
 ---
 
@@ -91,7 +90,11 @@ keep learning, and contribute to building efficient and scalable solutions in a 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### 🎓 Core Computer Science
-`Data Structures & Algorithms` `Object-Oriented Programming` `Operating Systems` `DBMS` `Computer Networks`
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-4ECDC4?style=for-the-badge&logo=python&logoColor=white)
+![OS](https://img.shields.io/badge/Operating_Systems-45B7D1?style=for-the-badge&logo=linux&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-96CEB4?style=for-the-badge&logo=mysql&logoColor=white)
+![CN](https://img.shields.io/badge/Computer_Networks-FFEAA7?style=for-the-badge&logo=cisco&logoColor=black)
 
 ---
 
@@ -105,12 +108,6 @@ keep learning, and contribute to building efficient and scalable solutions in a 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=payaljaiswalbdh&theme=radical" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=payaljaiswalbdh&theme=radical" width="45%" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=payaljaiswalbdh&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=payaljaiswalbdh&theme=radical&utcOffset=5.5" width="45%" />
-</p>
----
 
 ### 🏆 Certifications
 
@@ -142,7 +139,7 @@ keep learning, and contribute to building efficient and scalable solutions in a 
 
 <p align="center">
   <i>💼 Open to entry-level Software Engineering roles</i><br/>
-  <i>📧 payaljaiswalbdh@gmail.com</i>
+  <i>📧**Reach me:** payaljaiswalbdh@gmail.com </i>
 </p>
 
 <p align="center">
