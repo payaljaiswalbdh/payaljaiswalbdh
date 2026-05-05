@@ -1,6 +1,6 @@
 <!--═══════════════════════════════════════════════════════════════════════
     ✨ ULTRA EDITION v3 — ANIMATED AI ROBOT + DEDICATED REPO ICONS
-    Customized for: Prabhat Singh | Profile: payaljaiswalbdh
+    Customized for: Payal Jaiswal  | Profile: payaljaiswalbdh
 ═══════════════════════════════════════════════════════════════════════-->
 
 <!-- ============================ HEADER ============================ -->
