@@ -1,6 +1,15 @@
 <!--═══════════════════════════════════════════════════════════════════════
    ✨ ULTRA EDITION — PAYAL JAISWAL (FINAL CLEAN VERSION)
 ═══════════════════════════════════════════════════════════════════════-->
+<!-- ============================ HEADER ============================ -->
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24,12,20,30,2&height=200&section=header&text=Payal%20Jaiswal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20⚡%20ML%20Enthusiast&descSize=18&descAlignY=72)
+
+<a href="https://github.com/payaljaiswalbdh">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=700&color=F77FBE&center=true&vCenter=true&multiline=true&width=820&height=110&lines=Code.+Build.+Repeat.;Java+%2B;MERN+Stack+Developer;200%2B+DSA+Problems+Solved+🚀;" />
+</a>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=payaljaiswalbdh&label=Profile%20Views&color=ff69b4&style=flat" alt="payaljaiswalbdh" />
