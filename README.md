@@ -1,130 +1,208 @@
-<h1 align="center">Hey there, I'm Payal Jaiswal 👋</h1>
-<h3 align="center">A passionate Web Developer & CS Undergraduate from India 💻</h3>
+<!-- ============================ HEADER ============================ -->
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=payaljaiswalbdh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/payaljaiswalbdh?label=Followers&style=social" alt="followers" />
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24,12,20,30,2&height=200&section=header&text=Payal%20Jaiswal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=CS%20Undergrad%20%E2%9A%A1%20Full-Stack%20Dev%20%E2%9C%A8&descSize=18&descAlignY=72)
+
+<a href="https://github.com/payaljaiswalbdh">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=700&color=F77FBE&center=true&vCenter=true&multiline=true&width=820&height=110&lines=Hi+there%2C+I'm+Payal+%F0%9F%91%8B;Building+with+the+MERN+stack+%2B+Machine+Learning;Always+learning%2C+always+shipping+%F0%9F%9A%80;" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=payaljaiswalbdh&label=PROFILE+VIEWS&color=ff6ec7&style=for-the-badge&abbreviated=true" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/payaljaiswalbdh?label=FOLLOWERS&style=for-the-badge&color=8b5cf6&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/payaljaiswalbdh?label=STARS&style=for-the-badge&color=f7df1e&logo=github" alt="stars" />
 </p>
 
----
-
-### 👩‍💻 About Me
-
-I'm a **Computer Science undergraduate** passionate about full-stack development and machine learning. Currently in my 3rd year of B.Tech, I love building web applications and solving real-world problems through code.
-
-- 🎓 **Education:** B.Tech in CSE @ Pranveer Singh Institute of Technology, Kanpur
-- 🌱 **Currently learning:** React.js, Node.js, MongoDB, Express.js, Postman & Machine Learning
-- 💼 **Looking for:** Entry-level Software Engineering roles where I can build scalable solutions
-- ⚡ **Fun fact:** I enjoy turning tricky problems into clean, working code
-- 📫 **Reach me:** payaljaiswalbdh@gmail.com
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/payal-jaiswal-451703282" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/payal_jaiswal18/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/payaljaiswalbdh" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/2k23cs2yx84" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/payaljaiswalup92" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/payal_jais18" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93-B.Tech%20CSE%2C%20PSIT%20Kanpur-8b5cf6?style=for-the-badge" alt="education" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC-Open%20to%20SDE%20Roles-2ea44f?style=for-the-badge" alt="open to work" />
 </p>
 
+</div>
+
+# 💫 About Me:
+I'm a **Computer Science undergraduate** passionate about full-stack web development and machine learning. Currently in my 3rd year of B.Tech, I love building applications end-to-end — from a clean UI down to the API and database layer — and turning tricky problems into working code.<br><br>I'm actively deepening my skills in the MERN stack and exploring machine learning fundamentals, and I'm always open to collaborating on interesting projects.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/payal-jaiswal-451703282) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/payal_jaiswal18) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/payaljaiswalbdh) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/2k23cs2yx84) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://kaggle.com/payaljaiswalup92) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/payal_jais18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:payaljaiswalbdh@gmail.com)
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+[![Payal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=payaljaiswalbdh&bg_color=0d1117&color=F77FBE&line=8b5cf6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/payaljaiswalbdh/payaljaiswalbdh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/payaljaiswalbdh/payaljaiswalbdh/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/payaljaiswalbdh/payaljaiswalbdh/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+  <br/><sub>⚠️ Renders once you add the <a href="https://github.com/Platane/snk">snk snake-generator</a> GitHub Action to this repo — see setup note at the bottom.</sub>
+
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=payaljaiswalbdh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=payaljaiswalbdh&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payaljaiswalbdh&layout=compact&theme=radical&hide_border=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=payaljaiswalbdh&theme=radical&hide_border=true" />
+
+</div>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🔧 Backend</h3>
+      <p>
+        A JavaScript-based backend project — REST API design, server logic, and data handling.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="node" />
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="js" />
+      </p>
+      <a href="https://github.com/payaljaiswalbdh/backend">
+        <img src="https://img.shields.io/badge/%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📚 Study Planner</h3>
+      <p>
+        A study-planning web app to help organize tasks, subjects, and schedules.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="js" />
+        <img src="https://img.shields.io/badge/Productivity-2ea44f?style=flat-square" alt="domain" />
+      </p>
+      <a href="https://github.com/payaljaiswalbdh/studyplanner">
+        <img src="https://img.shields.io/badge/%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🎨 RPG Studio Texture Gen</h3>
+      <p>
+        A texture generation project — creating and processing game-ready textures.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Game%20Dev-8b5cf6?style=flat-square" alt="gamedev" />
+      </p>
+      <a href="https://github.com/payaljaiswalbdh/rpg-studio-texture-gen">
+        <img src="https://img.shields.io/badge/%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📦 Project 1</h3>
+      <p>
+        An early hands-on project — part of the learning-by-building journey.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Learning-f7df1e?style=flat-square" alt="learning" />
+      </p>
+      <a href="https://github.com/payaljaiswalbdh/project1">
+        <img src="https://img.shields.io/badge/%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/payaljaiswalbdh?tab=repositories">
+    <img src="https://img.shields.io/badge/%20Browse%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
+  </a>
+  <a href="https://github.com/payaljaiswalbdh?tab=stars">
+    <img src="https://img.shields.io/badge/%20Starred%20Repos-f7df1e?style=for-the-badge&logo=github&logoColor=black" alt="stars" />
+  </a>
+</div>
+
+## 🎯 Skill Architecture
+
+<details>
+  <summary><b>🎨 Frontend &amp; UI</b> — click to expand</summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" alt="frontend skills" />
+  </p>
+  <p align="center"><i>Building responsive UIs with React, styled with Tailwind and vanilla CSS.</i></p>
+</details>
+
+<details>
+  <summary><b>⚙️ Backend &amp; Databases</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="backend skills" />
+  </p>
+  <p align="center"><i>REST APIs on Node.js / Express, with MongoDB and MySQL for data storage.</i></p>
+</details>
+
+<details>
+  <summary><b>🤖 Data Science &amp; ML</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,sklearn" alt="ai/ml skills" />
+  </p>
+  <p align="center"><i>NumPy, Pandas, Matplotlib, and scikit-learn for data analysis and ML fundamentals.</i></p>
+</details>
+
+<details>
+  <summary><b>🛠️ Tooling &amp; CS Fundamentals</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="tooling skills" />
+  </p>
+  <p align="center"><i>DSA · OOP · Operating Systems · DBMS · Computer Networks</i></p>
+</details>
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always happy to talk about web dev, machine learning, or interesting projects.<br/>
+Feel free to reach out! 🚀
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/payal-jaiswal-451703282">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:payaljaiswalbdh@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+<a href="https://instagram.com/payal_jais18">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+
+</div>
+
 ---
+[![](https://visitcount.itsvg.in/api?id=payaljaiswalbdh&icon=1&color=1)](https://visitcount.itsvg.in)
 
-## 🚀 Skills & Technologies
-
-**Languages**
-<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Frontend**
-<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases**
-<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Data Science & ML**
-<br>
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Tools & Platforms**
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Core CS Fundamentals**
-<br>
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `Operating Systems` · `DBMS` · `Computer Networks`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=payaljaiswalbdh&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=payaljaiswalbdh&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=payaljaiswalbdh&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=payaljaiswalbdh&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=payaljaiswalbdh&theme=radical&utcOffset=5.5" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=payaljaiswalbdh&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-### 📌 Featured Repositories
-
-- 🔧 [**backend**](https://github.com/payaljaiswalbdh/backend) — JavaScript backend project
-- 📚 [**studyplanner**](https://github.com/payaljaiswalbdh/studyplanner) — Study planning application (JavaScript)
-- 🎨 [**rpg-studio-texture-gen**](https://github.com/payaljaiswalbdh/rpg-studio-texture-gen) — Texture generation project
-- 🌱 [**learning-git**](https://github.com/payaljaiswalbdh/learning-git) — Git learning repo
-
----
-
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect! 🚀</i></p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20,30,2&height=140&section=footer&animation=fadeIn&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=80)
