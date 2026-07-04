@@ -58,60 +58,73 @@ I'm a **Computer Science undergraduate** passionate about full-stack web develop
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🔧 Backend</h3>
+      <h3>📦 Logistics Delivery Management Platform</h3>
       <p>
-        A JavaScript-based backend project — REST API design, server logic, and data handling.
+        A full-stack logistics &amp; operations platform with territory zoning, dynamic tariff cards, volumetric-weight billing, intelligent courier auto-assignment, and failed-delivery rescheduling.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="node" />
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="js" />
+        <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts" />
+        <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="express" />
       </p>
-      <a href="https://github.com/payaljaiswalbdh/backend">
+      <a href="https://github.com/payaljaiswalbdh/logistics-delivery-management-platform">
         <img src="https://img.shields.io/badge/%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>📚 Study Planner</h3>
+      <h3>💸 RevenuePulse — CRM</h3>
       <p>
-        A study-planning web app to help organize tasks, subjects, and schedules.
+        A MERN CRM automating client follow-ups, payment tracking, and multi-channel notifications, with real-time dashboards and JWT-secured APIs.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="js" />
-        <img src="https://img.shields.io/badge/Productivity-2ea44f?style=flat-square" alt="domain" />
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react" />
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="node" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" />
+        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="twilio" />
       </p>
-      <a href="https://github.com/payaljaiswalbdh/studyplanner">
+      <a href="https://github.com/payaljaiswalbdh/revenuepulse">
         <img src="https://img.shields.io/badge/%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🎨 RPG Studio Texture Gen</h3>
+      <h3>✅ Task Management System</h3>
       <p>
-        A texture generation project — creating and processing game-ready textures.
+        A full-stack MERN app with category-based task organization, drag-and-drop calendar scheduling, JWT auth, and offline-first persistence via MongoDB Atlas + Local Storage.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Game%20Dev-8b5cf6?style=flat-square" alt="gamedev" />
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react" />
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="node" />
+        <img src="https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb atlas" />
       </p>
-      <a href="https://github.com/payaljaiswalbdh/rpg-studio-texture-gen">
+      <a href="https://github.com/payaljaiswalbdh/task-management-system">
         <img src="https://img.shields.io/badge/%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+      </a>
+      <a href="https://task-management-system-demo.vercel.app">
+        <img src="https://img.shields.io/badge/%20Live%20Demo-7950F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="live demo" />
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>📦 Project 1</h3>
+      <h3>🌐 Developer Portfolio Website</h3>
       <p>
-        An early hands-on project — part of the learning-by-building journey.
+        A fully responsive portfolio built with Next.js, showcasing projects and skills with smooth Framer Motion animations and modern frontend best practices.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Learning-f7df1e?style=flat-square" alt="learning" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="nextjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts" />
+        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="framer motion" />
       </p>
-      <a href="https://github.com/payaljaiswalbdh/project1">
+      <a href="https://github.com/payaljaiswalbdh/developer-portfolio">
         <img src="https://img.shields.io/badge/%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+      </a>
+      <a href="https://payaljaiswal-portfolio.vercel.app">
+        <img src="https://img.shields.io/badge/%20Live%20Demo-7950F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="live demo" />
       </a>
     </td>
   </tr>
 </table>
-
 <div align="center">
   <a href="https://github.com/payaljaiswalbdh?tab=repositories">
     <img src="https://img.shields.io/badge/%20Browse%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
