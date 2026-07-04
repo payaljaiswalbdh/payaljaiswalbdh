@@ -200,6 +200,25 @@ Feel free to reach out! 🚀
 </a>
 
 </div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=payaljaiswalbdh&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payaljaiswalbdh&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payaljaiswalbdh&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=payaljaiswalbdh&theme=react-dark&hide_border=true" />
+</p>
+
+<br>
+
+<div align="center">
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=payaljaiswalbdh&icon=1&color=1)](https://visitcount.itsvg.in)
