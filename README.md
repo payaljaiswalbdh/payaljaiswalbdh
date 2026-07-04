@@ -1,7 +1,7 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24,12,20,30,2&height=200&section=header&text=Payal%20Jaiswal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=CS%20Undergrad%20%E2%9A%A1%20Full-Stack%20Dev%20%E2%9C%A8&descSize=18&descAlignY=72)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24,12,20,30,2&height=200&section=header&text=Payal%20Jaiswal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=CS%20Undergrad%20%E2%9A%A1%20Full-Stack%20Developer%20%E2%9C%A8&descSize=18&descAlignY=72)
 
 <a href="https://github.com/payaljaiswalbdh">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=700&color=F77FBE&center=true&vCenter=true&multiline=true&width=820&height=110&lines=Hi+there%2C+I'm+Payal+%F0%9F%91%8B;Building+with+the+MERN+stack+%2B+Machine+Learning;Always+learning%2C+always+shipping+%F0%9F%9A%80;" alt="Typing SVG" />
@@ -50,20 +50,6 @@ I'm a **Computer Science undergraduate** passionate about full-stack web develop
   </picture>
 
   <br/><sub>⚠️ Renders once you add the <a href="https://github.com/Platane/snk">snk snake-generator</a> GitHub Action to this repo — see setup note at the bottom.</sub>
-
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=payaljaiswalbdh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=payaljaiswalbdh&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payaljaiswalbdh&layout=compact&theme=radical&hide_border=true" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=payaljaiswalbdh&theme=radical&hide_border=true" />
 
 </div>
 
