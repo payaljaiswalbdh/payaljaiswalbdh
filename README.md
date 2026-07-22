@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=700&color=F77FBE&center=true&vCenter=true&multiline=true&width=820&height=110&lines=Hi+there%2C+I'm+Payal+%F0%9F%91%8B;Building+with+the+MERN+stack+%2B+Generative+AI;Always+learning%2C+always+shipping+%F0%9F%9A%80;" alt="Typing SVG" />
 </a>
 
-<a href="https://github.com/payaljaiswalbdh">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=700&color=F77FBE&center=true&vCenter=true&multiline=true&width=820&height=110&lines=Hi+there%2C+I'm+Payal+%F0%9F%91%8B;Building+with+the+MERN+stack+%2B+Generative+AI;Always+learning%2C+always+shipping+%F0%9F%9A%80;" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <p>
