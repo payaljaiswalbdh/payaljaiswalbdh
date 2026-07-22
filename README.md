@@ -39,20 +39,6 @@ I'm a **Computer Science undergraduate** passionate about full-stack web develop
 
 </div>
 
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/payaljaiswalbdh/payaljaiswalbdh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/payaljaiswalbdh/payaljaiswalbdh/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/payaljaiswalbdh/payaljaiswalbdh/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-  <br/><sub>⚠️ Renders once you add the <a href="https://github.com/Platane/snk">snk snake-generator</a> GitHub Action to this repo — see setup note at the bottom.</sub>
-
-</div>
-
 ## 🚀 Featured Projects
 
 <table>
