@@ -23,7 +23,7 @@
 </div>
 
 # 💫 About Me:
-I'm a **Computer Science undergraduate** passionate about full-stack web development and machine learning. Currently in my 3rd year of B.Tech, I love building applications end-to-end — from a clean UI down to the API and database layer — and turning tricky problems into working code.<br><br>I'm actively deepening my skills in the MERN stack and exploring machine learning and generative AI fundamentals, and I'm always open to collaborating on interesting projects.
+I'm a **Computer Science undergraduate** passionate about full-stack web development and machine learning. Currently in my 4rd year of B.Tech, I love building applications end-to-end — from a clean UI down to the API and database layer — and turning tricky problems into working code.<br><br>I'm actively deepening my skills in the MERN stack and exploring machine learning and generative AI fundamentals, and I'm always open to collaborating on interesting projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/payal-jaiswal-451703282) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/payal_jaiswal18) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/payaljaiswalbdh) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/2k23cs2yx84) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://kaggle.com/payaljaiswalup92) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/payal_jais18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:payaljaiswalbdh@gmail.com)
@@ -175,14 +175,6 @@ I'm a **Computer Science undergraduate** passionate about full-stack web develop
   </p>
   <p align="center"><i>DSA · OOP · Operating Systems · DBMS · Computer Networks</i></p>
 </details>
-
-## 💭 Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ## 🤝 Let's Connect
 
